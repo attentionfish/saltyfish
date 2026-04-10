@@ -30,11 +30,11 @@ SaltyFish（咸鱼云）就是这样一家定位清晰的商家。他们不走�
 
 **德国法兰克福 / 荷兰阿姆斯特丹 Premium（CN2 GIA）**（欧洲本地 + 回国优化）：
 - Mini/Micro 级别：1核 1-2GB 10-20GB SSD + 1000-2000GB 流量 + 2.5Gbps
-- 实测 CPU（sysbench 单核）：可达 3447~5991 分
-- 内存读写：读 38k~73k MB/s，写 22k~41k MB/s
-- 磁盘 I/O：4K 随机约 44 MB/s（11k IOPS），顺序读写可达 500+ MB/s ~ 1GB/s
-- 欧洲本地速度：轻松跑到 2.8~3.27 Gbps
-- 回国延迟（江苏电信等）：约 177~211 ms，速度稳定在百兆以上，丢包控制较好
+- 实测 CPU（sysbench 单核）：可达 3447-5991 分
+- 内存读写：读 38k-73k MB/s，写 22k-41k MB/s
+- 磁盘 I/O：4K 随机约 44 MB/s（11k IOPS），顺序读写可达 500+ MB/s - 1GB/s
+- 欧洲本地速度：轻松跑到 2.8-3.27 Gbps
+- 回国延迟（江苏电信等）：约 177-211 ms，速度稳定在百兆以上，丢包控制较好
 
 香港 Lite 系列则更偏亚洲方向，适合对移动优化有一定需求的场景，但稳定性会比 CN2 GIA 稍弱一些。
 
@@ -44,8 +44,7 @@ SaltyFish（咸鱼云）就是这样一家定位清晰的商家。他们不走�
 - [咸鱼云 法兰克福 Premium 实测](https://lucklog.cc/archives/gyeAivWn)
 - [咸鱼云 阿姆斯特丹 Premium 测试](https://lucklog.cc/archives/TziiDFb3)
 - [咸鱼云 2026 最新套餐整理](https://lucklog.cc/archives/TD8616Br)
-
-[全部相关内容都在这里](https://lucklog.cc/tags/saltyfish)
+- [全部相关内容都在这里](https://lucklog.cc/tags/saltyfish)
 
 ---
 
